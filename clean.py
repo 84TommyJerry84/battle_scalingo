@@ -1,6 +1,8 @@
 """Nettoyage : une ligne brute (API ou CSV) vers un dict prêt à insérer.
 
 Les clés des dicts sont les colonnes SQL des tables cibles.
+
+deploiement 1
 """
 
 # geo.api.gouv.fr ne liste pas les arrondissements municipaux de Lyon (9),
